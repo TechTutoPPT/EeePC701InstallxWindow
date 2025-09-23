@@ -1,4 +1,6 @@
-# EeePC701InstallxWindow
+# Eee PC 701 Install X-Window
+
+[![Eee PC 701煥發新生](https://github.com/TechTutoPPT/EeePC701InstallxWindow/blob/main/cover.PNG)](https://youtu.be/jYpKb6-gvSU)
 
 承接上一視頻, 我已介紹過將Eee PC 701安裝最新版本的Alpine Linux並透過腳本方式進行與AI對話.
 但這就是Eee PC 701還能做的唯一玩意嗎? 當然不是, 今次我便教大家再發掘一下它的各種玩法.
